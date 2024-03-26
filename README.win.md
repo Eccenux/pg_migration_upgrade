@@ -1,4 +1,4 @@
-Data migration from PG9.2 and up to PG16 (copy databases and users and upgrade all).
+Data migration from PG9.2 (and up) to PG16 (copy databases and users and upgrade all).
 
 ## Tips
 
